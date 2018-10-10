@@ -40,16 +40,15 @@ namespace Draw
 			this.InitializeComponent();
 			this.title = title;
 			this.pairs = pairs;
-			this.participantCount = participantCount;		}
+			this.participantCount = participantCount;
+		}
 
 		private void DrawPreview_Paint(object sender, PaintEventArgs e)
 		{
 			Graphics graphics = this.CreateGraphics();
 			//int participants = this.pairs.Count * 2;
 			//if (this.pairs.ElementAt<ParticipantPair>(this.pairs.Count - 1).siro == null)
-				//--participants;
-
-			this.drawParticipants(graphics);
+			//--participants;
 
 			List<GridNode> nodes = this.gridMap.getMap(this.participantCount);
 			Pen pen = new Pen(Color.Black, 5f);
@@ -76,6 +75,7 @@ namespace Draw
 			{
 				this.generateGrid(this.participantCount, graphics);
 			}
+            this.drawParticipants(graphics);
 		}
 
 		private void generateGrid(int participants, Graphics gr)
@@ -128,7 +128,7 @@ namespace Draw
 		private void drawParticipants(Graphics gr)
 		{
 			Pen pen = new Pen(Color.Black, 5f);
-			Brush brush = (Brush)new SolidBrush(Color.Black);
+			SolidBrush brush = new SolidBrush(Color.Black);
 			Font font = new Font("Helvetica", 11f);
 			String duration = "";
 			int duration_seconds = this.games * 150;
@@ -152,18 +152,28 @@ namespace Draw
 			PointF pointF = (PointF)new Point(this.startX, this.startY);
 			foreach (ParticipantPair pair in this.pairs)
 			{
-				int offset = 0;
+				float point = pointF.Y - (float)this.fontOffset;
+				int shift = 4;
 				if (pair.aka.GetType() != typeof(FakeParticipant))
 				{
-					gr.DrawString("A" + pair.aka.getName() + " (" + pair.aka.getTeam() + ")", font, brush, pointF.X, pointF.Y - (float)this.fontOffset);
-					offset += 2;
+					brush.Color = Color.Red;
+					gr.DrawString(pair.aka.getName() + " (" + pair.aka.getTeam() + ")", font, brush, pointF.X, point);
+					point = pointF.Y + (float)this.fontOffset;
+				}
+				else
+				{
+					shift = 2;
 				}
 				if (pair.siro != null && pair.siro.GetType() != typeof(FakeParticipant))
 				{
-					gr.DrawString("S" + pair.siro.getName() + " (" + pair.siro.getTeam() + ")", font, brush, pointF.X, pointF.Y + (float)this.fontOffset);
-					offset += 2;
+					brush.Color = Color.Blue;
+					gr.DrawString(pair.siro.getName() + " (" + pair.siro.getTeam() + ")", font, brush, pointF.X, point);
 				}
-				pointF.Y += (float)(offset * this.fontOffset);
+				else
+				{
+					shift = 2;
+				}
+				pointF.Y += (float)(shift * this.fontOffset);
 			}
 		}
 

@@ -54,7 +54,7 @@ namespace Draw
 		private void fillFirstRound()
 		{
 			List<ParticipantPairDescription> participantPairs = new List<ParticipantPairDescription>();
-			for (int i = 5; i < 7; ++i)
+			for (int i = 5; i <= 32; ++i)
 			{
 				switch (i)
 				{
@@ -69,9 +69,71 @@ namespace Draw
 						participantPairs.Add(new ParticipantPairDescription(true, true));
 						participantPairs.Add(new ParticipantPairDescription(false, true));
 						break;
+					case 7:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						break;
+					case 9:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						break;
+					case 10:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						break;
+					case 11:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						break;
+					case 12:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						break;
+					case 13:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(false, true));
+						participantPairs.Add(new ParticipantPairDescription(true, false));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, false));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						break;
+					case 19:
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, false));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						participantPairs.Add(new ParticipantPairDescription(true, true));
+						break;
 				}
-				this.firstRound.Add(i, participantPairs);
-				participantPairs = new List<ParticipantPairDescription>();
+				if (participantPairs.Count > 0)
+				{
+					this.firstRound.Add(i, participantPairs);
+					participantPairs = new List<ParticipantPairDescription>();
+				}
 			}
 		}
 
@@ -314,7 +376,9 @@ namespace Draw
 			List<ParticipantPair> participantPairList = new List<ParticipantPair>();
 			Dictionary<string, List<Participant>> dictionary = new Dictionary<string, List<Participant>>();
 			Category category = this.categories.First<Category>((Func<Category, bool>)(s => s.getName() == categoryName));
-			Dictionary<int, List<ParticipantPairDescription>> firstRound = this.firstRound;
+			//Dictionary<int, List<ParticipantPairDescription>> firstRound = new Dictionary<int, List<ParticipantPairDescription>>(this.firstRound);
+			//Dictionary<int, List<ParticipantPairDescription>> firstRound = this.firstRound.ToDictionary(entry => entry.Key,
+			//entry => entry.Value);
 			if (category != null)
 			{
 				int num = 0;
@@ -329,13 +393,21 @@ namespace Draw
 				int categoryLength = num;
 				ParticipantPair participantPair = new ParticipantPair();
 				ParticipantPairDescription ppd = new ParticipantPairDescription(true, true);
+				List<ParticipantPairDescription> firstRound = new List<ParticipantPairDescription>();
+				if (this.firstRound.ContainsKey(categoryLength))
+				{
+					foreach (ParticipantPairDescription description in this.firstRound[categoryLength])
+					{
+						firstRound.Add(description);
+					}
+				}
 				while (num > 0)
 				{
 					foreach (KeyValuePair<string, List<Participant>> keyValuePair in dictionary)
 					{
-						if (firstRound.ContainsKey(categoryLength) && firstRound[categoryLength].Count > 0)
+						if (firstRound.Count > 0)
 						{
-							ppd = firstRound[categoryLength][0];
+							ppd = firstRound[0];
 							//foreach (ParticipantPairDescription ppd in this.firstRound[categoryLength])
 							//{
 							//if (ppd.aka)
@@ -367,9 +439,9 @@ namespace Draw
 							participantPairList.Add(participantPair);
 							participantPair.aka = (Participant)null;
 							participantPair.siro = (Participant)null;
-							if (firstRound.ContainsKey(categoryLength) && firstRound[categoryLength].Count > 0)
+							if (firstRound.Count > 0)
 							{
-								firstRound[categoryLength].RemoveAt(0);
+								firstRound.RemoveAt(0);
 							}
 						}
 					}
