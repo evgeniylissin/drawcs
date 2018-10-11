@@ -17,7 +17,7 @@ namespace Draw
 	public class DrawPreview : Form
 	{
 		private string title = "";
-		private int fontOffset = 25;
+		private int fontOffset = 20;
 		private int gridLineWidth = 200;
 		private int startX = 30;
 		private int startY = 150;
