@@ -228,119 +228,166 @@ namespace Draw
 						node20_21.addNode(nodes[0]);
 						node20_21.addNode(nodes[1]);
 						nodes.Add(node20_21);
-                        
-                        GridNode node20_22 = new GridNode();
-                        node20_22.setX(1);
-                        node20_22.addNode(nodes[2]);
-                        node20_22.addNode(nodes[3]);
-                        nodes.Add(node20_22);
-                        
-                        GridNode node20_23 = new GridNode();
-                        node20_23.setX(1);
-                        node20_23.addNode(nodes[4]);
-                        node20_23.addNode(nodes[5]);
-                        nodes.Add(node20_23);
-                        
-                        GridNode node20_24 = new GridNode();
-                        node20_24.setX(1);
-                        node20_24.addNode(nodes[6]);
-                        node20_24.addNode(nodes[7]);
-                        nodes.Add(node20_24);
-                        
-                        GridNode node20_25 = new GridNode();
-                        node20_25.setX(1);
-                        node20_25.addNode(nodes[8]);
-                        node20_25.addNode(nodes[9]);
-                        nodes.Add(node20_25);
-                        
-                        GridNode node20_26 = new GridNode();
-                        node20_26.setX(1);
-                        node20_26.addNode(nodes[10]);
-                        node20_26.addNode(nodes[11]);
-                        nodes.Add(node20_26);
-                        
-                        GridNode node20_27 = new GridNode();
-                        node20_27.setX(1);
-                        node20_27.addNode(nodes[12]);
-                        node20_27.addNode(nodes[13]);
-                        nodes.Add(node20_27);
-                        
-                        GridNode node20_28 = new GridNode();
-                        node20_28.setX(1);
-                        node20_28.addNode(nodes[14]);
-                        node20_28.addNode(nodes[15]);
-                        nodes.Add(node20_28);
-                        
-                        GridNode node20_29 = new GridNode();
-                        node20_29.setX(1);
-                        node20_29.addNode(nodes[16]);
-                        node20_29.addNode(nodes[17]);
-                        nodes.Add(node20_29);
-                        
-                        GridNode node20_30 = new GridNode();
-                        node20_30.setX(1);
-                        node20_30.addNode(nodes[18]);
-                        node20_30.addNode(nodes[19]);
-                        nodes.Add(node20_30);
-                        
-                        GridNode node20_31 = new GridNode();
-                        node20_31.setX(2);
-                        node20_31.addNode(node20_24);
-                        node20_31.addNode(node20_25);
-                        nodes.Add(node20_31);
-                        
-                        GridNode node20_32 = new GridNode();
-                        node20_32.setX(2);
-                        node20_32.addNode(node20_26);
-                        node20_32.addNode(node20_27);
-                        nodes.Add(node20_32);
-                        
-                        GridNode node20_33 = new GridNode();
-                        node20_33.setX(3);
-                        node20_33.addNode(node20_21);
-                        node20_33.addNode(node20_22);
-                        nodes.Add(node20_33);
-                        
-                        GridNode node20_34 = new GridNode();
-                        node20_34.setX(3);
-                        node20_34.addNode(node20_23);
-                        node20_34.addNode(node20_31);
-                        nodes.Add(node20_34);
-                        
-                        GridNode node20_35 = new GridNode();
-                        node20_35.setX(3);
-                        node20_35.addNode(node20_32);
-                        node20_35.addNode(node20_28);
-                        nodes.Add(node20_35);
-                        
-                        GridNode node20_36 = new GridNode();
-                        node20_36.setX(3);
-                        node20_36.addNode(node20_29);
-                        node20_36.addNode(node20_30);
-                        nodes.Add(node20_36);
-                        
-                        GridNode node20_37 = new GridNode();
-                        node20_37.setX(4);
-                        node20_37.addNode(node20_33);
-                        node20_37.addNode(node20_34);
-                        nodes.Add(node20_37);
-                        
-                        GridNode node20_38 = new GridNode();
-                        node20_38.setX(4);
-                        node20_38.addNode(node20_35);
-                        node20_38.addNode(node20_36);
-                        nodes.Add(node20_38);
-                        
-                        GridNode node20_39 = new GridNode();
-                        node20_39.setX(5);
-                        node20_39.addNode(node20_37);
-                        node20_39.addNode(node20_38);
-                        nodes.Add(node20_39);
+
+						GridNode node20_22 = new GridNode();
+						node20_22.setX(1);
+						node20_22.addNode(nodes[2]);
+						node20_22.addNode(nodes[3]);
+						nodes.Add(node20_22);
+
+						GridNode node20_23 = new GridNode();
+						node20_23.setX(1);
+						node20_23.addNode(nodes[4]);
+						node20_23.addNode(nodes[5]);
+						nodes.Add(node20_23);
+
+						GridNode node20_24 = new GridNode();
+						node20_24.setX(1);
+						node20_24.addNode(nodes[6]);
+						node20_24.addNode(nodes[7]);
+						nodes.Add(node20_24);
+
+						GridNode node20_25 = new GridNode();
+						node20_25.setX(1);
+						node20_25.addNode(nodes[8]);
+						node20_25.addNode(nodes[9]);
+						nodes.Add(node20_25);
+
+						GridNode node20_26 = new GridNode();
+						node20_26.setX(1);
+						node20_26.addNode(nodes[10]);
+						node20_26.addNode(nodes[11]);
+						nodes.Add(node20_26);
+
+						GridNode node20_27 = new GridNode();
+						node20_27.setX(1);
+						node20_27.addNode(nodes[12]);
+						node20_27.addNode(nodes[13]);
+						nodes.Add(node20_27);
+
+						GridNode node20_28 = new GridNode();
+						node20_28.setX(1);
+						node20_28.addNode(nodes[14]);
+						node20_28.addNode(nodes[15]);
+						nodes.Add(node20_28);
+
+						GridNode node20_29 = new GridNode();
+						node20_29.setX(1);
+						node20_29.addNode(nodes[16]);
+						node20_29.addNode(nodes[17]);
+						nodes.Add(node20_29);
+
+						GridNode node20_30 = new GridNode();
+						node20_30.setX(1);
+						node20_30.addNode(nodes[18]);
+						node20_30.addNode(nodes[19]);
+						nodes.Add(node20_30);
+
+						GridNode node20_31 = new GridNode();
+						node20_31.setX(2);
+						node20_31.addNode(node20_24);
+						node20_31.addNode(node20_25);
+						nodes.Add(node20_31);
+
+						GridNode node20_32 = new GridNode();
+						node20_32.setX(2);
+						node20_32.addNode(node20_26);
+						node20_32.addNode(node20_27);
+						nodes.Add(node20_32);
+
+						GridNode node20_33 = new GridNode();
+						node20_33.setX(3);
+						node20_33.addNode(node20_21);
+						node20_33.addNode(node20_22);
+						nodes.Add(node20_33);
+
+						GridNode node20_34 = new GridNode();
+						node20_34.setX(3);
+						node20_34.addNode(node20_23);
+						node20_34.addNode(node20_31);
+						nodes.Add(node20_34);
+
+						GridNode node20_35 = new GridNode();
+						node20_35.setX(3);
+						node20_35.addNode(node20_32);
+						node20_35.addNode(node20_28);
+						nodes.Add(node20_35);
+
+						GridNode node20_36 = new GridNode();
+						node20_36.setX(3);
+						node20_36.addNode(node20_29);
+						node20_36.addNode(node20_30);
+						nodes.Add(node20_36);
+
+						GridNode node20_37 = new GridNode();
+						node20_37.setX(4);
+						node20_37.addNode(node20_33);
+						node20_37.addNode(node20_34);
+						nodes.Add(node20_37);
+
+						GridNode node20_38 = new GridNode();
+						node20_38.setX(4);
+						node20_38.addNode(node20_35);
+						node20_38.addNode(node20_36);
+						nodes.Add(node20_38);
+
+						GridNode node20_39 = new GridNode();
+						node20_39.setX(5);
+						node20_39.addNode(node20_37);
+						node20_39.addNode(node20_38);
+						nodes.Add(node20_39);
 
 						GridNode node20_40 = new GridNode();
 						node20_40.setX(6);
 						node20_40.addNode(node20_39);
 						nodes.Add(node20_40);
+						break;
+					case 21:
+						this.addNode(1, nodes, 0, 1);//22
+						this.addNode(1, nodes, 2, 3);//23
+						this.addNode(1, nodes, 4, 5);//24
+						this.addNode(1, nodes, 7, 8);//25
+						this.addNode(1, nodes, 9, 10);//26
+						this.addNode(1, nodes, 11, 12);//27
+						this.addNode(1, nodes, 13, 14);//28
+						this.addNode(1, nodes, 15, 16);//29
+						this.addNode(1, nodes, 17, 18);//30
+						this.addNode(1, nodes, 19, 20);//31
+						this.addNode(2, nodes, 23, 6);//32
+						this.addNode(2, nodes, 24, 25);//33
+						this.addNode(2, nodes, 26, 27);//34
+						this.addNode(3, nodes, 21, 22);//35
+						this.addNode(3, nodes, 31, 32);//36
+						this.addNode(3, nodes, 33, 28);//37
+						this.addNode(3, nodes, 29, 30);//38
+						this.addNode(4, nodes, 34, 35);//39
+						this.addNode(4, nodes, 36, 37);//40
+						this.addNode(5, nodes, 38, 39);//41
+						this.addNode(6, nodes, 40);//42
+						break;
+					case 22:
+						this.addNode(1, nodes, 0, 1);//23
+						this.addNode(1, nodes, 2, 3);//24
+						this.addNode(1, nodes, 4, 5);//25
+						this.addNode(1, nodes, 7, 8);//26
+						this.addNode(1, nodes, 9, 10);//27
+						this.addNode(1, nodes, 11, 12);//28
+						this.addNode(1, nodes, 13, 14);//29
+						this.addNode(1, nodes, 16, 17);//30
+						this.addNode(1, nodes, 18, 19);//31
+						this.addNode(1, nodes, 20, 21);//32
+						this.addNode(2, nodes, 24, 6);//33
+						this.addNode(2, nodes, 25, 26);//34
+						this.addNode(2, nodes, 27, 28);//35
+						this.addNode(2, nodes, 15, 29);//36
+						this.addNode(3, nodes, 22, 23);//37
+						this.addNode(3, nodes, 32, 33);//38
+						this.addNode(3, nodes, 34, 35);//39
+						this.addNode(3, nodes, 30, 31);//40
+						this.addNode(4, nodes, 36, 37);//41
+						this.addNode(4, nodes, 38, 39);//42
+						this.addNode(5, nodes, 40, 41);//43
+						this.addNode(6, nodes, 42);//44
 						break;
 				}
 				if (nodes.Count > i)
@@ -348,6 +395,23 @@ namespace Draw
 					this.grid.Add(i, nodes);
 				}
 			}
+		}
+
+		private void addNode(int x, List<GridNode> nodes, int indexFirst, int indexSecond)
+		{
+			GridNode node = new GridNode();
+			node.setX(x);
+			node.addNode(nodes[indexFirst]);
+			node.addNode(nodes[indexSecond]);
+			nodes.Add(node);
+		}
+
+		private void addNode(int x, List<GridNode> nodes, int indexFirst)
+		{
+			GridNode node = new GridNode();
+			node.setX(x);
+			node.addNode(nodes[indexFirst]);
+			nodes.Add(node);
 		}
 
 		public List<GridNode> getMap(int count)

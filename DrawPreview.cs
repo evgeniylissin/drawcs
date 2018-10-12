@@ -41,6 +41,7 @@ namespace Draw
 			this.title = title;
 			this.pairs = pairs;
 			this.participantCount = participantCount;
+			this.games = participantCount;
 		}
 
 		private void DrawPreview_Paint(object sender, PaintEventArgs e)
