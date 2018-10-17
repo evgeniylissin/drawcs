@@ -389,6 +389,57 @@ namespace Draw
 						this.addNode(5, nodes, 40, 41);//43
 						this.addNode(6, nodes, 42);//44
 						break;
+					case 23:
+						this.addNode(1, nodes, 0, 1);//24
+						this.addNode(1, nodes, 2, 3);//25
+						this.addNode(1, nodes, 4, 5);//26
+						this.addNode(1, nodes, 6, 7);//27
+						this.addNode(1, nodes, 8, 9);//28
+						this.addNode(1, nodes, 10, 11);//29
+						this.addNode(1, nodes, 12, 13);//30
+						this.addNode(1, nodes, 14, 15);//31
+						this.addNode(1, nodes, 17, 18);//32
+						this.addNode(1, nodes, 19, 20);//33
+						this.addNode(1, nodes, 21, 22);//34
+						this.addNode(2, nodes, 25, 26);//35
+						this.addNode(2, nodes, 27, 28);//36
+						this.addNode(2, nodes, 29, 30);//37
+						this.addNode(2, nodes, 16, 31);//38
+						this.addNode(3, nodes, 23, 24);//39
+						this.addNode(3, nodes, 34, 35);//40
+						this.addNode(3, nodes, 36, 37);//41
+						this.addNode(3, nodes, 32, 33);//42
+						this.addNode(4, nodes, 38, 39);//43
+						this.addNode(4, nodes, 40, 41);//44
+						this.addNode(5, nodes, 42, 43);//45
+						this.addNode(6, nodes, 44);//46
+						break;
+					case 24:
+						this.addNode(1, nodes, 0, 1);//25
+						this.addNode(1, nodes, 2, 3);//26
+						this.addNode(1, nodes, 4, 5);//27
+						this.addNode(1, nodes, 6, 7);//28
+						this.addNode(1, nodes, 8, 9);//29
+						this.addNode(1, nodes, 10, 11);//30
+						this.addNode(1, nodes, 12, 13);//31
+						this.addNode(1, nodes, 14, 15);//32
+						this.addNode(1, nodes, 16, 17);//33
+						this.addNode(1, nodes, 18, 19);//34
+						this.addNode(1, nodes, 20, 21);//35
+						this.addNode(1, nodes, 22, 23);//36
+						this.addNode(2, nodes, 26, 27);//37
+						this.addNode(2, nodes, 28, 29);//38
+						this.addNode(2, nodes, 30, 31);//39
+						this.addNode(2, nodes, 32, 33);//40
+						this.addNode(3, nodes, 24, 25);//41
+						this.addNode(3, nodes, 36, 37);//42
+						this.addNode(3, nodes, 38, 39);//43
+						this.addNode(3, nodes, 34, 35);//44
+						this.addNode(4, nodes, 40, 41);//45
+						this.addNode(4, nodes, 42, 43);//46
+						this.addNode(5, nodes, 44, 45);//47
+						this.addNode(6, nodes, 46);//48
+						break;
 				}
 				if (nodes.Count > i)
 				{

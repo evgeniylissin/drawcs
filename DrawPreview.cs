@@ -18,6 +18,7 @@ namespace Draw
 	{
 		private string title = "";
 		private int fontOffset = 20;
+		private int fontOffsetHeader = 25;
 		private int gridLineWidth = 200;
 		private int startX = 30;
 		private int startY = 150;
@@ -42,6 +43,18 @@ namespace Draw
 			this.pairs = pairs;
 			this.participantCount = participantCount;
 			this.games = participantCount;
+			if (participantCount <= 18)
+			{
+				this.fontOffset = 25;
+			}
+			else if (participantCount > 18 && participantCount <= 23)
+			{
+				this.fontOffset = 20;
+			}
+			else
+			{
+				this.fontOffset = 17;
+			}
 		}
 
 		private void DrawPreview_Paint(object sender, PaintEventArgs e)
@@ -51,6 +64,14 @@ namespace Draw
 			//if (this.pairs.ElementAt<ParticipantPair>(this.pairs.Count - 1).siro == null)
 			//--participants;
 
+
+			this.generateGrid(this.participantCount, graphics);
+
+			this.drawParticipants(graphics);
+		}
+
+		private void generateGrid(int participants, Graphics gr)
+		{
 			List<GridNode> nodes = this.gridMap.getMap(this.participantCount);
 			Pen pen = new Pen(Color.Black, 5f);
 			Brush brush = (Brush)new SolidBrush(Color.Black);
@@ -61,68 +82,62 @@ namespace Draw
 				{
 					if (node.getChildNodes().Count == 2)
 					{
-						graphics.DrawLine(pen, this.startX + node.getChildNodes()[0].getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset);
-						graphics.DrawLine(pen, this.startX + node.getChildNodes()[1].getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset);
+						gr.DrawLine(pen, this.startX + node.getChildNodes()[0].getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset);
+						gr.DrawLine(pen, this.startX + node.getChildNodes()[1].getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset);
 
-						graphics.DrawLine(pen, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset);
+						gr.DrawLine(pen, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[0].getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getChildNodes()[1].getY() * this.fontOffset);
 					}
 					else if (node.getChildNodes().Count == 1)
 					{
-						graphics.DrawLine(pen, this.startX + node.getChildNodes()[0].getX() * this.gridLineWidth, this.startY + node.getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getY() * this.fontOffset);
+						gr.DrawLine(pen, this.startX + node.getChildNodes()[0].getX() * this.gridLineWidth, this.startY + node.getY() * this.fontOffset, this.startX + node.getX() * this.gridLineWidth, this.startY + node.getY() * this.fontOffset);
 					}
 				}
 			}
 			else
 			{
-				this.generateGrid(this.participantCount, graphics);
-			}
-            this.drawParticipants(graphics);
-		}
-
-		private void generateGrid(int participants, Graphics gr)
-		{
-			this.games = 0;
-			Brush brush;
-			if (participants <= 31 && participants != 4 && (participants != 8 && participants != 16) && participants != 32)
-			{
-				this.fillGrid(participants);
-				Pen pen = new Pen(Color.Black, 5f);
-				brush = (Brush)new SolidBrush(Color.Black);
-				foreach (KeyValuePair<Point, Point> keyValuePair in this.grid)
+				this.games = 0;
+				//Brush brush;
+				if (participants <= 31 && participants != 4 && (participants != 8 && participants != 16) && participants != 32)
 				{
-					gr.DrawLine(pen, this.startX + keyValuePair.Key.X, this.startY + keyValuePair.Key.Y, this.startX + keyValuePair.Value.X, this.startY + keyValuePair.Value.Y);
-				}
-				this.games = participants;
-			}
-			else
-			{
-				int num1 = participants % 2 == 0 ? participants : participants + 1;
-				Pen pen = new Pen(Color.Black, 5f);
-				brush = (Brush)new SolidBrush(Color.Black);
-				PointF pointF = (PointF)new Point(this.startX, this.startY);
-				int fontOffset = this.fontOffset;
-				int num2 = 2 * this.fontOffset;
-				int num3 = num1;
-				while (num3 > 1)
-				{
-					int num4 = 1;
-					while (num4 < num3)
+					this.fillGrid(participants);
+					//Pen pen = new Pen(Color.Black, 5f);
+					//brush = (Brush)new SolidBrush(Color.Black);
+					foreach (KeyValuePair<Point, Point> keyValuePair in this.grid)
 					{
-						gr.DrawLine(pen, pointF.X, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y);
-						gr.DrawLine(pen, pointF.X, pointF.Y + (float)num2, pointF.X + (float)this.gridLineWidth, pointF.Y + (float)num2);
-						gr.DrawLine(pen, pointF.X + (float)this.gridLineWidth, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y + (float)num2);
-						++this.games;
-						num4 += 2;
-						pointF.Y += (float)(2 * num2);
+						gr.DrawLine(pen, this.startX + keyValuePair.Key.X, this.startY + keyValuePair.Key.Y, this.startX + keyValuePair.Value.X, this.startY + keyValuePair.Value.Y);
 					}
-					num3 /= 2;
-					pointF.X += (float)this.gridLineWidth;
-					pointF.Y = (float)(this.startY + fontOffset);
-					fontOffset += num2;
-					num2 *= 2;
+					this.games = participants;
 				}
-				gr.DrawLine(pen, pointF.X, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y);
-				this.games += 1;
+				else
+				{
+					int num1 = participants % 2 == 0 ? participants : participants + 1;
+					//Pen pen = new Pen(Color.Black, 5f);
+					//brush = (Brush)new SolidBrush(Color.Black);
+					PointF pointF = (PointF)new Point(this.startX, this.startY);
+					int fontOffset = this.fontOffset;
+					int num2 = 2 * this.fontOffset;
+					int num3 = num1;
+					while (num3 > 1)
+					{
+						int num4 = 1;
+						while (num4 < num3)
+						{
+							gr.DrawLine(pen, pointF.X, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y);
+							gr.DrawLine(pen, pointF.X, pointF.Y + (float)num2, pointF.X + (float)this.gridLineWidth, pointF.Y + (float)num2);
+							gr.DrawLine(pen, pointF.X + (float)this.gridLineWidth, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y + (float)num2);
+							++this.games;
+							num4 += 2;
+							pointF.Y += (float)(2 * num2);
+						}
+						num3 /= 2;
+						pointF.X += (float)this.gridLineWidth;
+						pointF.Y = (float)(this.startY + fontOffset);
+						fontOffset += num2;
+						num2 *= 2;
+					}
+					gr.DrawLine(pen, pointF.X, pointF.Y, pointF.X + (float)this.gridLineWidth, pointF.Y);
+					this.games += 1;
+				}
 			}
 		}
 
@@ -140,16 +155,16 @@ namespace Draw
 			}
 			int duration_min = (int)((duration_seconds % 3600) / 60);
 			duration += duration_min.ToString().PadLeft(2, '0') + "хв.";
-			gr.DrawString(this.title, font, brush, 500f, (float)this.fontOffset);
-			gr.DrawString("1. ______________", font, brush, 200f, (float)(3 * this.fontOffset));
-			gr.DrawString("Команда ______________", font, brush, 150f, (float)(4 * this.fontOffset));
-			gr.DrawString("2. ______________", font, brush, 400f, (float)(3 * this.fontOffset));
-			gr.DrawString("Команда ______________", font, brush, 350f, (float)(4 * this.fontOffset));
-			gr.DrawString("3. ______________", font, brush, 600f, (float)(3 * this.fontOffset));
-			gr.DrawString("Команда ______________", font, brush, 550f, (float)(4 * this.fontOffset));
-			gr.DrawString("______________", font, brush, 800f, (float)(3 * this.fontOffset));
-			gr.DrawString("______________", font, brush, 800f, (float)(4 * this.fontOffset));
-			gr.DrawString("Час категорії: " + duration, font, brush, 1050f, (float)(4 * this.fontOffset));
+			gr.DrawString(this.title, font, brush, 500f, (float)this.fontOffsetHeader);
+			gr.DrawString("1. ______________", font, brush, 200f, (float)(3 * this.fontOffsetHeader));
+			gr.DrawString("Команда ______________", font, brush, 150f, (float)(4 * this.fontOffsetHeader));
+			gr.DrawString("2. ______________", font, brush, 400f, (float)(3 * this.fontOffsetHeader));
+			gr.DrawString("Команда ______________", font, brush, 350f, (float)(4 * this.fontOffsetHeader));
+			gr.DrawString("3. ______________", font, brush, 600f, (float)(3 * this.fontOffsetHeader));
+			gr.DrawString("Команда ______________", font, brush, 550f, (float)(4 * this.fontOffsetHeader));
+			gr.DrawString("______________", font, brush, 800f, (float)(3 * this.fontOffsetHeader));
+			gr.DrawString("______________", font, brush, 800f, (float)(4 * this.fontOffsetHeader));
+			gr.DrawString("Час категорії: " + duration, font, brush, 1050f, (float)(4 * this.fontOffsetHeader));
 			PointF pointF = (PointF)new Point(this.startX, this.startY);
 			foreach (ParticipantPair pair in this.pairs)
 			{
