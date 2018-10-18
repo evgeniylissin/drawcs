@@ -689,6 +689,7 @@ namespace Draw
 			openFileDialog.Filter = "XML|*.xml";
 			if (openFileDialog.ShowDialog((IWin32Window)this) != DialogResult.OK)
 				return;
+            this.competition.clear();
 			string fileName = openFileDialog.FileName;
 			XmlDocument xmlDocument = new XmlDocument();
 			xmlDocument.Load(fileName);
