@@ -440,32 +440,60 @@ namespace Draw
 						this.addNode(5, nodes, 44, 45);//47
 						this.addNode(6, nodes, 46);//48
 						break;
-                        case 25:
+					case 25:
 						this.addNode(1, nodes, 0, 1);//26
-                        this.addNode(1, nodes, 2, 3);//27
-                        this.addNode(1, nodes, 5, 6);//28
-                        this.addNode(1, nodes, 7, 8);//29
-                        this.addNode(1, nodes, 9, 10);//30
-                        this.addNode(1, nodes, 11, 12);//31
-                        this.addNode(1, nodes, 13, 14);//32
-                        this.addNode(1, nodes, 15, 16);//33
-                        this.addNode(1, nodes, 17, 18);//34
-                        this.addNode(1, nodes, 19, 20);//35
-                        this.addNode(1, nodes, 21, 22);//36
-                        this.addNode(1, nodes, 23, 24);//37
+						this.addNode(1, nodes, 2, 3);//27
+						this.addNode(1, nodes, 5, 6);//28
+						this.addNode(1, nodes, 7, 8);//29
+						this.addNode(1, nodes, 9, 10);//30
+						this.addNode(1, nodes, 11, 12);//31
+						this.addNode(1, nodes, 13, 14);//32
+						this.addNode(1, nodes, 15, 16);//33
+						this.addNode(1, nodes, 17, 18);//34
+						this.addNode(1, nodes, 19, 20);//35
+						this.addNode(1, nodes, 21, 22);//36
+						this.addNode(1, nodes, 23, 24);//37
 						this.addNode(2, nodes, 26, 4);//38
-                        this.addNode(2, nodes, 27, 28);//39
-                        this.addNode(2, nodes, 29, 30);//40
-                        this.addNode(2, nodes, 31, 32);//41
-                        this.addNode(2, nodes, 33, 34);//42
+						this.addNode(2, nodes, 27, 28);//39
+						this.addNode(2, nodes, 29, 30);//40
+						this.addNode(2, nodes, 31, 32);//41
+						this.addNode(2, nodes, 33, 34);//42
 						this.addNode(3, nodes, 25, 37);//43
-                        this.addNode(3, nodes, 38, 39);//44
-                        this.addNode(3, nodes, 40, 41);//45
-                        this.addNode(3, nodes, 35, 36);//46
+						this.addNode(3, nodes, 38, 39);//44
+						this.addNode(3, nodes, 40, 41);//45
+						this.addNode(3, nodes, 35, 36);//46
 						this.addNode(4, nodes, 42, 43);//47
-                        this.addNode(4, nodes, 44, 45);//48
+						this.addNode(4, nodes, 44, 45);//48
 						this.addNode(5, nodes, 46, 47);//49
 						this.addNode(6, nodes, 48);
+						break;
+					case 26:
+						this.addNode(1, nodes, 0, 1);//27
+						this.addNode(1, nodes, 2, 3);//28
+						this.addNode(1, nodes, 5, 6);//29
+						this.addNode(1, nodes, 7, 8);//30
+						this.addNode(1, nodes, 9, 10);//31
+						this.addNode(1, nodes, 11, 12);//32
+						this.addNode(1, nodes, 13, 14);//33
+						this.addNode(1, nodes, 15, 16);//34
+						this.addNode(1, nodes, 17, 18);//35
+						this.addNode(1, nodes, 19, 20);//36
+						this.addNode(1, nodes, 22, 23);//37
+						this.addNode(1, nodes, 24, 25);//38
+						this.addNode(2, nodes, 27, 4);//39
+						this.addNode(2, nodes, 28, 29);//40
+						this.addNode(2, nodes, 30, 31);//41
+						this.addNode(2, nodes, 32, 33);//42
+						this.addNode(2, nodes, 34, 35);//43
+						this.addNode(2, nodes, 21, 36);//44
+						this.addNode(3, nodes, 26, 38);//45
+						this.addNode(3, nodes, 39, 40);//46
+						this.addNode(3, nodes, 41, 42);//47
+						this.addNode(3, nodes, 43, 37);//48
+						this.addNode(4, nodes, 44, 45);//49
+						this.addNode(4, nodes, 46, 47);//50
+						this.addNode(5, nodes, 48, 49);//51
+						this.addNode(6, nodes, 50);
 						break;
 				}
 				if (nodes.Count > i)
