@@ -9,47 +9,48 @@
     <team>
       <name>Dynamo</name>
       <participants>
+        <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" ku="5" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="755" name="Iosya Piva" age="25" weight="25" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" ku="6" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="755" name="Iosya Piva" age="25" weight="25" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
       </participants>
     </team>
     <team>
       <name>Shakhta</name>
       <participants>
         <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="1110" name="Stepan T" age="26" weight="26" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="196" name="Marlos" age="18" weight="18" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="432" name="Bodya But" age="22" weight="22" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="4" name="Dasha" age="2" weight="2" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="1110" name="Stepan T" age="26" weight="26" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
       </participants>
     </team>
     <team>
       <name>Zor'ka</name>
       <participants>
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="438" name="Grom Art" age="23" weight="23" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="201" name="Gordi" age="19" weight="19" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="14" name="Lun'" age="7" weight="7" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="15" name="Jura" age="11" weight="11" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="1484" name="Kocherg" age="27" weight="27" sex="M" ku="2" kata="True" kumite="True" fukugo="False" irigumi="False" />
       </participants>
     </team>
     <team>
       <name>Real</name>
       <participants>
-        <participant id="32" name="Luka M." age="16" weight="16" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="31" name="Marcelko" age="12" weight="12" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="206" name="Benz" age="20" weight="20" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
-        <participant id="444" name="Isco" age="24" weight="24" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="206" name="Benz" age="20" weight="20" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="31" name="Marcelko" age="12" weight="12" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="444" name="Isco" age="24" weight="24" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
+        <participant id="32" name="Luka M." age="16" weight="16" sex="M" ku="1" kata="True" kumite="True" fukugo="False" irigumi="False" />
       </participants>
     </team>
   </teams>
@@ -66,151 +67,148 @@
       <filter age="0-2" weight="0-2" sex="M" ku="10-0" type="Kumite" />
       <participants>
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
       </participants>
     </category>
     <category>
       <name>3</name>
       <filter age="0-3" weight="0-3" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>4</name>
       <filter age="0-4" weight="0-4" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>5</name>
       <filter age="0-5" weight="0-5" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>6</name>
       <filter age="0-6" weight="0-6" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>7</name>
       <filter age="0-7" weight="0-7" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>8</name>
       <filter age="0-8" weight="0-8" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>9</name>
       <filter age="0-9" weight="0-9" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>10</name>
       <filter age="0-10" weight="0-10" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>11</name>
       <filter age="0-11" weight="0-11" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>12</name>
       <filter age="0-12" weight="0-12" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>13</name>
       <filter age="0-13" weight="0-13" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -218,18 +216,18 @@
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>14</name>
       <filter age="0-14" weight="0-14" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -237,20 +235,19 @@
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>15</name>
       <filter age="0-15" weight="0-15" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -258,20 +255,20 @@
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>16</name>
       <filter age="0-16" weight="0-16" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -280,20 +277,20 @@
         <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>17</name>
       <filter age="0-17" weight="0-17" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -303,20 +300,20 @@
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>18</name>
       <filter age="0-18" weight="0-18" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -326,22 +323,21 @@
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>19</name>
       <filter age="0-19" weight="0-19" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -351,22 +347,22 @@
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>20</name>
       <filter age="0-20" weight="0-20" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -377,22 +373,22 @@
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>21</name>
       <filter age="0-21" weight="0-21" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -404,22 +400,22 @@
         <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>22</name>
       <filter age="0-22" weight="0-22" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -431,24 +427,23 @@
         <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>23</name>
       <filter age="0-23" weight="0-23" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -460,24 +455,24 @@
         <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
       <name>24</name>
       <filter age="0-24" weight="0-24" sex="M" ku="10-0" type="Kumite" />
       <participants>
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
@@ -490,12 +485,18 @@
         <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
       </participants>
     </category>
     <category>
@@ -509,56 +510,89 @@
         <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
         <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="444" name="Isco" age="24" weight="24" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
-        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-      </participants>
-    </category>
-    <category>
-      <name>26</name>
-      <filter age="0-26" weight="0-26" sex="M" ku="10-0" type="Kumite" />
-      <participants>
-        <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="755" name="Iosya Piva" age="25" weight="25" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
-        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="1110" name="Stepan T" age="26" weight="26" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
-        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
         <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
-        <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
-        <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
-        <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
+      </participants>
+    </category>
+    <category>
+      <name>26</name>
+      <filter age="0-26" weight="0-26" sex="M" ku="10-0" type="Kumite" />
+      <participants>
+        <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="755" name="Iosya Piva" age="25" weight="25" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="1110" name="Stepan T" age="26" weight="26" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="444" name="Isco" age="24" weight="24" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="False" kumite="False" fukugo="False" irigumi="False" team="Real" />
+        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+      </participants>
+    </category>
+    <category>
+      <name>27</name>
+      <filter age="0-27" weight="0-27" sex="M" ku="10-0" type="Kumite" />
+      <participants>
+        <participant id="36" name="Vitya Ts." age="13" weight="13" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="1" name="Denya" age="5" weight="5" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="426" name="Oleg Gus" age="21" weight="21" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="755" name="Iosya Piva" age="25" weight="25" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="35" name="Al. Kh." age="9" weight="9" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="191" name="Denya B." age="17" weight="17" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="2" name="Serya" age="1" weight="1" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Dynamo" />
+        <participant id="40" name="Vitya Viyty" age="14" weight="14" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="196" name="Marlos" age="18" weight="18" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="3" name="Slava" age="6" weight="6" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="39" name="Paolo F." age="10" weight="10" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="432" name="Bodya But" age="22" weight="22" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="4" name="Dasha" age="2" weight="2" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="1110" name="Stepan T" age="26" weight="26" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Shakhta" />
+        <participant id="13" name="Opanas" age="3" weight="3" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="438" name="Grom Art" age="23" weight="23" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="201" name="Gordi" age="19" weight="19" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="44" name="Grechya" age="15" weight="15" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="14" name="Lun'" age="7" weight="7" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="15" name="Jura" age="11" weight="11" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
+        <participant id="1484" name="Kocherg" age="27" weight="27" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Zor'ka" />
         <participant id="29" name="Serhio" age="4" weight="4" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
-        <participant id="444" name="Isco" age="24" weight="24" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
         <participant id="30" name="Zizu" age="8" weight="8" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
+        <participant id="206" name="Benz" age="20" weight="20" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
+        <participant id="31" name="Marcelko" age="12" weight="12" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
+        <participant id="444" name="Isco" age="24" weight="24" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
+        <participant id="32" name="Luka M." age="16" weight="16" sex="M" kata="True" kumite="True" fukugo="False" irigumi="False" team="Real" />
       </participants>
     </category>
   </categories>

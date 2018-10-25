@@ -495,6 +495,35 @@ namespace Draw
 						this.addNode(5, nodes, 48, 49);//51
 						this.addNode(6, nodes, 50);
 						break;
+					case 27:
+						this.addNode(1, nodes, 0, 1);//28
+						this.addNode(1, nodes, 2, 3);//29
+						this.addNode(1, nodes, 5, 6);//30
+						this.addNode(1, nodes, 7, 8);//31
+						this.addNode(1, nodes, 9, 10);//32
+						this.addNode(1, nodes, 11, 12);//33
+						this.addNode(1, nodes, 13, 14);//34
+						this.addNode(1, nodes, 15, 16);//35
+						this.addNode(1, nodes, 17, 18);//36
+						this.addNode(1, nodes, 19, 20);//37
+						this.addNode(1, nodes, 21, 22);//38
+						this.addNode(1, nodes, 23, 24);//39
+						this.addNode(1, nodes, 25, 26);//40
+						this.addNode(2, nodes, 28, 4);//41
+						this.addNode(2, nodes, 29, 30);//42
+						this.addNode(2, nodes, 31, 32);//43
+						this.addNode(2, nodes, 33, 34);//44
+						this.addNode(2, nodes, 35, 36);//45
+						this.addNode(2, nodes, 37, 38);//46
+						this.addNode(3, nodes, 27, 40);//47
+						this.addNode(3, nodes, 41, 42);//48
+						this.addNode(3, nodes, 43, 44);//49
+						this.addNode(3, nodes, 45, 39);//50
+						this.addNode(4, nodes, 46, 47);//51
+						this.addNode(4, nodes, 48, 49);//52
+						this.addNode(5, nodes, 50, 51);//53
+						this.addNode(6, nodes, 52);
+						break;
 				}
 				if (nodes.Count > i)
 				{
