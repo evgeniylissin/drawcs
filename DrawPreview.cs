@@ -43,17 +43,29 @@ namespace Draw
 			this.pairs = pairs;
 			this.participantCount = participantCount;
 			this.games = participantCount;
-			if (participantCount <= 18)
+			if (participantCount <= 17)
 			{
 				this.fontOffset = 25;
 			}
-			else if (participantCount > 18 && participantCount <= 23)
+			else if (participantCount > 17 && participantCount <= 20)
 			{
-				this.fontOffset = 20;
+				this.fontOffset = 22;
 			}
+            else if (participantCount > 20 && participantCount <= 23)
+            {
+                this.fontOffset = 19;
+            }
+            else if (participantCount > 23 && participantCount <= 26)
+            {
+                this.fontOffset = 17;
+            }
+            else if (participantCount > 26 && participantCount <= 29)
+            {
+                this.fontOffset = 15;
+            }
 			else
 			{
-				this.fontOffset = 17;
+				this.fontOffset = 14;
 			}
 		}
 
